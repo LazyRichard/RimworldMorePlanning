@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <MorePlanning.SettingRemoveIfBuildingDespawned.label>건설 후 계획 제거</MorePlanning.SettingRemoveIfBuildingDespawned.label>
+    <MorePlanning.SettingRemoveIfBuildingDespawned.desc>건설 지시기 위에 어떤 것이 건설되거나 해체되면 건설 지시기를 지웁니니다.</MorePlanning.SettingRemoveIfBuildingDespawned.desc>
+
+    <MorePlanning.SettingShiftKeyForOverride.label>Shift키로 색상 재지정</MorePlanning.SettingShiftKeyForOverride.label>
+    <MorePlanning.SettingShiftKeyForOverride.desc>기본적으로 계획을 추가하거나 지우는 것은 모든 색상을 재지정합니다. Shift를 누른 상태로 지시기를 배치하면 다른 색상들을 덮어쓰지 않도록 합니다. 활성화 하면 반대로 동작합니다(Shift 키를 눌러야 전체 색상 재지정).</MorePlanning.SettingShiftKeyForOverride.desc>
+
+    <MorePlanning.PlanDesc>계획 지시기를 설치합니다. 미래 확장을 위한 계획을 도와줄 뿐 아무 역할도 하지 않습니다. Shift 키를 누르고 있으면 재지정 방식을 변경하여 적용합니다.</MorePlanning.PlanDesc>
+
+    <MorePlanning.PlanVisibility>계획 지시기 보이기</MorePlanning.PlanVisibility>
+    <MorePlanning.PlanVisibilityDesc>계획 지시기의 보이기/숨기기를 전환합니다.</MorePlanning.PlanVisibilityDesc>
+
+    <Planning.label>계획</Planning.label>
+
+    <MorePlanning.Opacity.label>투명도: {0}%</MorePlanning.Opacity.label>
+    <MorePlanning.Opacity.desc>계획 지시기의 투명도를 조절합니다.</MorePlanning.Opacity.desc>
+
+    <MorePlanning.DefaultOpacity>(기본값)</MorePlanning.DefaultOpacity>
+
+    <MorePlanning.PlanCopy>계획 복사</MorePlanning.PlanCopy>
+    <MorePlanning.PlanCopyDesc>선택된 영역의 계획 지시기를 복사합니다.</MorePlanning.PlanCopyDesc>
+
+    <MorePlanning.PlanCut>계획 잘라내기</MorePlanning.PlanCut>
+    <MorePlanning.PlanCutDesc>선택된 영역의 계획 지시기를 잘라냅니다.</MorePlanning.PlanCutDesc>
+
+    <MorePlanning.PlanPaste>계획 붙여넣기</MorePlanning.PlanPaste>
+    <MorePlanning.PlanPasteDesc>잘라내거나 복사한 계획 지시기를 붙여 넣습니다.</MorePlanning.PlanPasteDesc>
+
+    <MorePlanning.NoCutCopiedPlan>잘라내거나 복사된 계획 지시기가 없습니다.</MorePlanning.NoCutCopiedPlan>
+
+    <MorePlanning.MissingPlanningDesignations>선택된 영역에 계획 지시기가 없습니다.</MorePlanning.MissingPlanningDesignations>
+
+    <MorePlanning.DefaultColor>기본 색상</MorePlanning.DefaultColor>
+    <MorePlanning.Ok>확인</MorePlanning.Ok>
+
+    <MorePlanning.ChangeColor>색상 변경</MorePlanning.ChangeColor>
+
+</LanguageData>
